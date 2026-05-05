@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "0e4d7ec2bbddefbd9f2e794bd644113f",
-"assets/AssetManifest.bin.json": "d6f16b433f7d3806029441275168831f",
-"assets/AssetManifest.json": "43d9d64e2f1524e5f27e02a36d94eeb4",
+const RESOURCES = {"assets/AssetManifest.bin": "e959c24ed6bdf22ba8e1bf652ce9d795",
+"assets/AssetManifest.bin.json": "1ecd7bb6347e0d02021ea25951d4b652",
+"assets/AssetManifest.json": "d9b13dcfe5ea711cb63a1a79ab398b66",
 "assets/assets/fonts/Poppins-Bold.ttf": "08c20a487911694291bd8c5de41315ad",
 "assets/assets/fonts/Poppins-Medium.ttf": "bf59c687bc6d3a70204d3944082c5cc0",
 "assets/assets/fonts/Poppins-Regular.ttf": "093ee89be9ede30383f39a899c485a82",
@@ -47,6 +47,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "0e4d7ec2bbddefbd9f2e794bd644113f
 "assets/assets/images/onboarding/4.png": "8f2cc8e4d11a4549ec18409393de593e",
 "assets/assets/images/onboarding/5.png": "bdb9aea28d991048c32afa35c4bea9a0",
 "assets/assets/images/onboarding1.png": "e566b6cbd479c8e94ae3ea4343943396",
+"assets/assets/images/pasakay/State%2520Illustrations%2520(2).png": "d20cb49805877712a4d96636e80b5181",
 "assets/assets/images/pasugo/Custom.png": "4486f3b6433afb045429499282286272",
 "assets/assets/images/pasugo/Food.png": "b68f45ba09d436d81863a676beef5121",
 "assets/assets/images/pasugo/Grocery.png": "c28e81198f6516aedbf8e6378868bd98",
@@ -87,7 +88,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "0e4d7ec2bbddefbd9f2e794bd644113f
 "assets/assets/notif.wav": "feb29173be911eeaa2c1312491acc565",
 "assets/FontManifest.json": "8f0ae30eb4e6983e7efaab77e8f392d7",
 "assets/fonts/MaterialIcons-Regular.otf": "0b38ec57747b51dfcc2474651257db4f",
-"assets/NOTICES": "14da56618cfbca2b24cc76090e0f1139",
+"assets/NOTICES": "02830d0dc2f186f9675fff9b01060a88",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "15d54d142da2f2d6f2e90ed1d55121af",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "262525e2081311609d1fdab966c82bfc",
@@ -108,16 +109,16 @@ const RESOURCES = {"assets/AssetManifest.bin": "0e4d7ec2bbddefbd9f2e794bd644113f
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "ebc7065f9d16e5caac10623197af1a5a",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "d24ee002065996537a336851d69a4937",
+"flutter_bootstrap.js": "7a323f10c16a214e69e1d3157be565a0",
 "icons/Icon-192.png": "ebc7065f9d16e5caac10623197af1a5a",
 "icons/Icon-512.png": "ebc7065f9d16e5caac10623197af1a5a",
 "icons/Icon-maskable-192.png": "ebc7065f9d16e5caac10623197af1a5a",
 "icons/Icon-maskable-512.png": "ebc7065f9d16e5caac10623197af1a5a",
 "index.html": "1ab5b893ab5f58fdce5717adeab9d06b",
 "/": "1ab5b893ab5f58fdce5717adeab9d06b",
-"main.dart.js": "45ef076e6d6b98555f2c9e07aab172bc",
+"main.dart.js": "9728fc507ed73be6caf4c5df32ecf229",
 "manifest.json": "05a0d3b385838aca15dc9ce8799a92cf",
-"version.json": "9bddf8d38866296620c349001273d6a9"};
+"version.json": "1bbee2b951e771151b6cc6a32fa3edd2"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
